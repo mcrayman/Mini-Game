@@ -1,0 +1,15 @@
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/bin/Debug/net6.0/Final
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/bin/Debug/net6.0/Final.deps.json
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/bin/Debug/net6.0/Final.runtimeconfig.json
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/bin/Debug/net6.0/Final.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/bin/Debug/net6.0/Final.pdb
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.csproj.AssemblyReference.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.AssemblyInfoInputs.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.AssemblyInfo.cs
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.csproj.CoreCompileInputs.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/refint/Final.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.pdb
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/Final.genruntimeconfig.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Final/obj/Debug/net6.0/ref/Final.dll

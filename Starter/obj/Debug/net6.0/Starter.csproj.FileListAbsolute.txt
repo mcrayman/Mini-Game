@@ -1,0 +1,15 @@
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/bin/Debug/net6.0/Starter
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/bin/Debug/net6.0/Starter.deps.json
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/bin/Debug/net6.0/Starter.runtimeconfig.json
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/bin/Debug/net6.0/Starter.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/bin/Debug/net6.0/Starter.pdb
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.csproj.AssemblyReference.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.AssemblyInfoInputs.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.AssemblyInfo.cs
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.csproj.CoreCompileInputs.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/refint/Starter.dll
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.pdb
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/Starter.genruntimeconfig.cache
+/Users/matthewmcmeans/Library/CloudStorage/OneDrive-TheUniversityofMemphis/FreeCCFrontend/Microsoft C#/mini-game/Starter/obj/Debug/net6.0/ref/Starter.dll
